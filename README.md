@@ -7,7 +7,6 @@ A feedback collection application built with **React**, **Flask**, and **MongoDB
 ## 🌐 Live Demo
 
 - 🔗 Frontend: [https://client-bice-six.vercel.app/](https://client-bice-six.vercel.app/)
-- 🔗 Backend API: [https://server-ihca.onrender.com/feedback](https://server-ihca.onrender.com/feedback)
 
 ---
 
