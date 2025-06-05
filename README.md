@@ -3,6 +3,11 @@
 A feedback collection application built with **React**, **Flask**, and **MongoDB**. Users can submit feedback through a simple UI, and feedback entries are stored and managed using a Flask API backed by MongoDB.
 
 ---
+## Screenshots
+
+![Screenshot 1](Web_UI.png)
+
+---
 
 ## 🗂 Folder Structure
 ```
